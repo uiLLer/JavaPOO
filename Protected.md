@@ -1,0 +1,3 @@
+Ao usar [[Herança]] no Java, temos a possibilidade de utilizar o [[Modificadores de acesso]] **protected**, que permite que os atributos de uma classe sejam acessados por outras classes do mesmo pacote e também por suas subclasses, independentemente do pacote em que se encontram.
+
+O modificador protected é útil em situações em que uma classe precisa permitir que suas subclasses acessem diretamente seus atributos, sem a necessidade de restringir o acesso apenas pelos métodos getters e setters.
